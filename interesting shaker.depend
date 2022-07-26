@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1656484778 source:d:\projects\windows\interesting shaker\main.cpp
+	<iostream>
+	<windows.h>
+	<string>
+	<initguid.h>
+	<KnownFolders.h>
+	<shlobj.h>
+
+1654957068 source:d:\projects\windows\interesting shaker\icon.rc
+
